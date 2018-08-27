@@ -13,7 +13,7 @@
 #import "PFDateFormatter.h"
 #import "PFFieldOperation.h"
 #import "PFFieldOperationDecoder.h"
-#import "PFFile_Private.h"
+#import "PFFileObject_Private.h"
 #import "PFGeoPointPrivate.h"
 #import "PFPolygonPrivate.h"
 #import "PFInternalUtils.h"

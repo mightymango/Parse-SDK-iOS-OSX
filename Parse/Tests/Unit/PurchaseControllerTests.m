@@ -18,7 +18,7 @@
 #import "PFCommandRunning.h"
 #import "PFEncoder.h"
 #import "PFFileManager.h"
-#import "PFFile_Private.h"
+#import "PFFileObject_Private.h"
 #import "PFMacros.h"
 #import "PFPaymentTransactionObserver.h"
 #import "PFProductsRequestHandler.h"

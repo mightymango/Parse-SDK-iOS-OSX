@@ -32,7 +32,7 @@
 #import "PFErrorUtilities.h"
 #import "PFEventuallyQueue_Private.h"
 #import "PFFileManager.h"
-#import "PFFile_Private.h"
+#import "PFFileObject_Private.h"
 #import "PFJSONSerialization.h"
 #import "PFLogging.h"
 #import "PFMacros.h"

@@ -20,7 +20,7 @@
 #import "PFConstants.h"
 #import "PFDecoder.h"
 #import "PFFileManager.h"
-#import "PFFile_Private.h"
+#import "PFFileObject_Private.h"
 #import "PFHTTPRequest.h"
 #import "PFMacros.h"
 #import "PFPaymentTransactionObserver.h"

@@ -15,7 +15,7 @@
 #import "PFFileController.h"
 #import "PFFileStagingController.h"
 #import "PFFileState.h"
-#import "PFFile_Private.h"
+#import "PFFileObject_Private.h"
 #import "PFUnitTestCase.h"
 #import "Parse_Private.h"
 

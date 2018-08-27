@@ -14,7 +14,7 @@
 #import "PFBase64Encoder.h"
 #import "PFDateFormatter.h"
 #import "PFFieldOperation.h"
-#import "PFFile_Private.h"
+#import "PFFileObject_Private.h"
 #import "PFGeoPointPrivate.h"
 #import "PFPolygonPrivate.h"
 #import "PFObjectPrivate.h"

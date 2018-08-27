@@ -8,7 +8,7 @@
  */
 
 #import "PFFileObject.h"
-#import "PFFile_Private.h"
+#import "PFFileObject_Private.h"
 
 #import <Bolts/BFCancellationTokenSource.h>
 
