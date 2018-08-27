@@ -169,8 +169,8 @@
         @strongify(self);
 
         PFCommandResult *result = task.result;
-        PFFile *file = [[PFDecoder objectDecoder] decodeObject:result.result];
-        if (![file isKindOfClass:[PFFile class]]) {
+        PFFileObject *file = [[PFDecoder objectDecoder] decodeObject:result.result];
+        if (![file isKindOfClass:[PFFileObject class]]) {
             return [BFTask taskWithError:[NSError errorWithDomain:PFParseErrorDomain
                                                              code:kPFErrorInvalidPurchaseReceipt
                                                          userInfo:result.result]];
